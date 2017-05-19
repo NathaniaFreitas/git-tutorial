@@ -1,3 +1,4 @@
 x = "Hello World"
-printf(x)
+for i in x
+	print (i)
 input()
